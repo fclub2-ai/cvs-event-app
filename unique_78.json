@@ -1,0 +1,470 @@
+[
+  {
+    "base_name": "코카콜라 500ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 코카콜라 500ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "코카콜라 제로 500ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 코카콜라 제로 500ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "칠성사이다 500ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 칠성사이다 500ml",
+    "current_image": "https://i.ibb.co/spPbdW3t/500ml.jpg"
+  },
+  {
+    "base_name": "칠성사이다 제로 500ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 칠성사이다 제로 500ml",
+    "current_image": "https://i.ibb.co/spPbdW3t/500ml.jpg"
+  },
+  {
+    "base_name": "스프라이트 500ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 스프라이트 500ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "환타 오렌지 600ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 환타 오렌지 600ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "펩시콜라 제로 라임 500ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 펩시콜라 제로 라임 500ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "삼다수 2.0L",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 삼다수 2.0L",
+    "current_image": "https://i.ibb.co/wZ8N9tJ/8809030720027.jpg"
+  },
+  {
+    "base_name": "아이시스 8.0 500ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 아이시스 8.0 500ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "광동 옥수수수수차 500ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 광동 옥수수수수차 500ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "HK 헛개수 500ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) HK 헛개수 500ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "현대 미에로화이바 350ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 현대 미에로화이바 350ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "광동 비타500 100ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 광동 비타500 100ml",
+    "current_image": "https://i.ibb.co/ycxh7wzX/500-100ml.jpg"
+  },
+  {
+    "base_name": "몬스터에너지 355ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 몬스터에너지 355ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "핫식스 250ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 핫식스 250ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "레드불 250ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 레드불 250ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "맥스웰하우스 캔커피 175ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 맥스웰하우스 캔커피 175ml",
+    "current_image": "https://i.ibb.co/GfrNRKZ5/175ml.jpg"
+  },
+  {
+    "base_name": "조지아 크래프트 아메리카노 470ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 조지아 크래프트 아메리카노 470ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "칸타타 프리미엄 라떼 275ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 칸타타 프리미엄 라떼 275ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "TOP 마스터라떼 275ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) TOP 마스터라떼 275ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "매일 바리스타룰스 모카 250ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 매일 바리스타룰스 모카 250ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "매일 바리스타룰스 디카페인 250ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 매일 바리스타룰스 디카페인 250ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "빙그레 아카페라 바닐라라떼 240ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 빙그레 아카페라 바닐라라떼 240ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "스타벅스 파이크플레이스 블랙 275ml",
+    "category": "음료/커피",
+    "sample_full_name": "GS25) 스타벅스 파이크플레이스 블랙 275ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "농심 신라면 컵 65g",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) 농심 신라면 컵 65g",
+    "current_image": "https://i.ibb.co/QFW07Sqk/65g.jpg"
+  },
+  {
+    "base_name": "오뚜기 진라면 매운맛 컵",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) 오뚜기 진라면 매운맛 컵",
+    "current_image": "https://i.ibb.co/1thWkL3C/image.jpg"
+  },
+  {
+    "base_name": "삼양 불닭볶음면 큰사발",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) 삼양 불닭볶음면 큰사발",
+    "current_image": "https://i.ibb.co/PzYQy4zx/image.jpg"
+  },
+  {
+    "base_name": "농심 짜파게티 큰사발",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) 농심 짜파게티 큰사발",
+    "current_image": "https://i.ibb.co/M5fKHCcn/image.jpg"
+  },
+  {
+    "base_name": "농심 육개장 사발면 86g",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) 농심 육개장 사발면 86g",
+    "current_image": "https://i.ibb.co/QFW07Sqk/65g.jpg"
+  },
+  {
+    "base_name": "오뚜기 참깨라면 컵",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) 오뚜기 참깨라면 컵",
+    "current_image": "https://i.ibb.co/QFW07Sqk/65g.jpg"
+  },
+  {
+    "base_name": "CJ 햇반 210g",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) CJ 햇반 210g",
+    "current_image": "https://i.ibb.co/sJ31MwG0/CJ-210g.jpg"
+  },
+  {
+    "base_name": "오뚜기 오뚜기밥 210g",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) 오뚜기 오뚜기밥 210g",
+    "current_image": "https://i.ibb.co/QFW4Kg3Q/210g.jpg"
+  },
+  {
+    "base_name": "혜자로운집밥 제육볶음도시락",
+    "category": "간편식/도시락",
+    "sample_full_name": "GS25) 혜자로운집밥 제육볶음도시락",
+    "current_image": "https://i.ibb.co/XZjgRpXw/image.jpg"
+  },
+  {
+    "base_name": "백종원 매콤제육 정식도시락",
+    "category": "간편식/도시락",
+    "sample_full_name": "GS25) 백종원 매콤제육 정식도시락",
+    "current_image": "https://i.ibb.co/XZjgRpXw/image.jpg"
+  },
+  {
+    "base_name": "죠스떡볶이 컵 떡볶이",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) 죠스떡볶이 컵 떡볶이",
+    "current_image": "https://i.ibb.co/27zbbFVz/image.jpg"
+  },
+  {
+    "base_name": "CJ 비비고 왕교자 만두 455g",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) CJ 비비고 왕교자 만두 455g",
+    "current_image": "https://i.ibb.co/MD1n6LLn/CJ-455g.jpg"
+  },
+  {
+    "base_name": "한성 크래미 90g",
+    "category": "안주/간편식",
+    "sample_full_name": "GS25) 한성 크래미 90g",
+    "current_image": "https://i.ibb.co/fGNvxLg5/90g.jpg"
+  },
+  {
+    "base_name": "CJ 스팸 클래식 200g",
+    "category": "안주/간편식",
+    "sample_full_name": "GS25) CJ 스팸 클래식 200g",
+    "current_image": "https://i.ibb.co/pjpRVSZ1/CJ-200g.jpg"
+  },
+  {
+    "base_name": "동원 살코기 참치캔 150g",
+    "category": "안주/간편식",
+    "sample_full_name": "GS25) 동원 살코기 참치캔 150g",
+    "current_image": "https://i.ibb.co/39X4Yj6d/150g.jpg"
+  },
+  {
+    "base_name": "사조 한입피자 콤비네이션 80g",
+    "category": "라면/간편식",
+    "sample_full_name": "GS25) 사조 한입피자 콤비네이션 80g",
+    "current_image": "https://i.ibb.co/rf0NqPT2/80g.jpg"
+  },
+  {
+    "base_name": "빙그레 바나나맛우유 240ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 빙그레 바나나맛우유 240ml",
+    "current_image": "https://i.ibb.co/gZD7gh6P/240ml.jpg"
+  },
+  {
+    "base_name": "서울우유 딸기우유 300ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 서울우유 딸기우유 300ml",
+    "current_image": "https://i.ibb.co/XkNc783Q/300ml.jpg"
+  },
+  {
+    "base_name": "서울우유 초코우유 300ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 서울우유 초코우유 300ml",
+    "current_image": "https://i.ibb.co/B5z7kxbw/300ml.jpg"
+  },
+  {
+    "base_name": "서울우유 커피우유 300ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 서울우유 커피우유 300ml",
+    "current_image": "https://i.ibb.co/mVWZtCVy/300ml.jpg"
+  },
+  {
+    "base_name": "덴마크 드링킹요구르트 딸기 310ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 덴마크 드링킹요구르트 딸기 310ml",
+    "current_image": "https://i.ibb.co/XkNc783Q/300ml.jpg"
+  },
+  {
+    "base_name": "풀무원 액티비아업 딸기 210ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 풀무원 액티비아업 딸기 210ml",
+    "current_image": "https://i.ibb.co/XkNc783Q/300ml.jpg"
+  },
+  {
+    "base_name": "풀무원 요거톡 스타볼 132g",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 풀무원 요거톡 스타볼 132g",
+    "current_image": "https://i.ibb.co/Y74Xsztb/132g.jpg"
+  },
+  {
+    "base_name": "연세우유 생크림빵 130g",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 연세우유 생크림빵 130g",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "하겐다즈 파인트 바닐라 473ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 하겐다즈 파인트 바닐라 473ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "하겐다즈 스틱바 딸기",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 하겐다즈 스틱바 딸기",
+    "current_image": "https://i.ibb.co/XkNc783Q/300ml.jpg"
+  },
+  {
+    "base_name": "나뚜루 파인트 녹차 474ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 나뚜루 파인트 녹차 474ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "롯데 월드콘 바닐라 160ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 롯데 월드콘 바닐라 160ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "빙그레 메로나 70ml",
+    "category": "유제품/디저트",
+    "sample_full_name": "GS25) 빙그레 메로나 70ml",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "오리온 포카칩 오리지널 66g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 오리온 포카칩 오리지널 66g",
+    "current_image": "https://i.ibb.co/6cbNQv8B/66g.jpg"
+  },
+  {
+    "base_name": "오리온 꼬북칩 콘스프맛 80g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 오리온 꼬북칩 콘스프맛 80g",
+    "current_image": "https://i.ibb.co/1Jd7mgKV/80g.jpg"
+  },
+  {
+    "base_name": "해태 허니버터칩 60g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 해태 허니버터칩 60g",
+    "current_image": "https://i.ibb.co/XkNc783Q/300ml.jpg"
+  },
+  {
+    "base_name": "농심 새우깡 90g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 농심 새우깡 90g",
+    "current_image": "https://i.ibb.co/xw0NWMq/90g.jpg"
+  },
+  {
+    "base_name": "오리온 초코송이 50g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 오리온 초코송이 50g",
+    "current_image": "https://i.ibb.co/qN7X1vY/8801117134001.jpg"
+  },
+  {
+    "base_name": "롯데 빼빼로 아몬드 37g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 롯데 빼빼로 아몬드 37g",
+    "current_image": "https://i.ibb.co/R8Z0mKx/8801062268405.jpg"
+  },
+  {
+    "base_name": "롯데 가나 딥밀크 초콜릿 70g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 롯데 가나 딥밀크 초콜릿 70g",
+    "current_image": "https://i.ibb.co/v4Mnqgx8/70g.jpg"
+  },
+  {
+    "base_name": "페레로로쉐 T3 37.5g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 페레로로쉐 T3 37.5g",
+    "current_image": "https://i.ibb.co/14wtvZP/T3-37-5g.jpg"
+  },
+  {
+    "base_name": "농심 멘토스 푸르티 37g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 농심 멘토스 푸르티 37g",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "하리보 골드베렌 곰젤리 100g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 하리보 골드베렌 곰젤리 100g",
+    "current_image": "https://i.ibb.co/5gG3HH4h/100g.jpg"
+  },
+  {
+    "base_name": "오리온 초코파이 12입 팩",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 오리온 초코파이 12입 팩",
+    "current_image": "https://i.ibb.co/B5z7kxbw/300ml.jpg"
+  },
+  {
+    "base_name": "롯데 칙촉 120g",
+    "category": "스낵/과자",
+    "sample_full_name": "GS25) 롯데 칙촉 120g",
+    "current_image": "https://i.ibb.co/nMFTtt9M/120g.jpg"
+  },
+  {
+    "base_name": "2080 토탈 전문 치약 120g",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 2080 토탈 전문 치약 120g",
+    "current_image": "https://i.ibb.co/fGz3pK99/2080-120g.jpg"
+  },
+  {
+    "base_name": "2080 초극세모 미세모 칫솔",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 2080 초극세모 미세모 칫솔",
+    "current_image": "https://i.ibb.co/fGz3pK99/2080-120g.jpg"
+  },
+  {
+    "base_name": "페리오 토탈7 알파 치약",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 페리오 토탈7 알파 치약",
+    "current_image": "https://i.ibb.co/fGz3pK99/2080-120g.jpg"
+  },
+  {
+    "base_name": "엘라스틴 퍼퓸 샴푸 600ml",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 엘라스틴 퍼퓸 샴푸 600ml",
+    "current_image": "https://i.ibb.co/j9FJMB70/600ml.jpg"
+  },
+  {
+    "base_name": "테크 액체 세탁세제 1.4L",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 테크 액체 세탁세제 1.4L",
+    "current_image": "https://i.ibb.co/kVvZVK4P/8801051203271.jpg"
+  },
+  {
+    "base_name": "크리넥스 수프림소프트 30롤",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 크리넥스 수프림소프트 30롤",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "좋은느낌 유기농 라이너 18P",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 좋은느낌 유기농 라이너 18P",
+    "current_image": "https://i.ibb.co/6JTC5JbX/8-0-500ml.jpg"
+  },
+  {
+    "base_name": "리스테린 쿨민트 구강청결제 750ml",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 리스테린 쿨민트 구강청결제 750ml",
+    "current_image": "https://i.ibb.co/xtjC00pM/750ml.jpg"
+  },
+  {
+    "base_name": "가그린 제로 구강청결제 750ml",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 가그린 제로 구강청결제 750ml",
+    "current_image": "https://i.ibb.co/xtjC00pM/750ml.jpg"
+  },
+  {
+    "base_name": "페브리즈 깨끗한향 370ml",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 페브리즈 깨끗한향 370ml",
+    "current_image": "https://i.ibb.co/pjwrkPjm/370ml.jpg"
+  },
+  {
+    "base_name": "다우니 아로마보라 섬유유연제 1L",
+    "category": "생활용품",
+    "sample_full_name": "GS25) 다우니 아로마보라 섬유유연제 1L",
+    "current_image": "https://i.ibb.co/CV0X5iS/8801008801406.jpg"
+  },
+  {
+    "base_name": "컨디션 스틱 헛개 18g",
+    "category": "의약외품/건강",
+    "sample_full_name": "GS25) 컨디션 스틱 헛개 18g",
+    "current_image": "https://i.ibb.co/XpBgQg5/18g.jpg"
+  },
+  {
+    "base_name": "여명808 숙취해소음료 140ml",
+    "category": "의약외품/건강",
+    "sample_full_name": "GS25) 여명808 숙취해소음료 140ml",
+    "current_image": "https://i.ibb.co/XpBgQg5/18g.jpg"
+  }
+]

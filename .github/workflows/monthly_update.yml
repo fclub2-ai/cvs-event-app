@@ -1,0 +1,52 @@
+name: CVS-FINDER Monthly Auto Update & Cloudflare Deploy
+
+on:
+  schedule:
+    # 매월 1일 한국 시간(KST) 새벽 02:00 자동 실행 (UTC 기준 전일 17:00)
+    - cron: '0 17 1 * *'
+  workflow_dispatch: # GitHub 웹 화면에서 'Run workflow' 버튼으로 언제든 수동 테스트 가능
+
+permissions:
+  contents: write # 갱신된 파일들을 GitHub에 자동 커밋 & 푸시하기 위한 권한
+
+jobs:
+  monthly-crawler-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 1. 저장소 코드 가져오기 (Checkout)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 2. Python 3.11 환경 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 3. 필수 크롤링 라이브러리 설치
+        run: |
+          pip install beautifulsoup4
+
+      - name: 4. 4대 편의점 공식 행사 데이터 수집 및 번들 생성
+        run: |
+          python sync_official_cvs_data.py
+          python build_full_bundle.py
+
+      - name: 5. 갱신된 데이터 GitHub 자동 커밋 & 푸시
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add index.html cvs_data.json backend/cvs_data.json
+          
+          # 변경사항이 있을 때만 커밋
+          if git diff --staged --quiet; then
+            echo "✅ 최신 변경 사항이 없습니다."
+          else
+            CURRENT_DATE=$(date +'%Y년 %m월')
+            git commit -m "chore(auto): ${CURRENT_DATE} 편의점 1+1 행사 데이터 자동 갱신 및 배포"
+            git push
+            echo "🚀 GitHub 푸시 완료! Cloudflare Pages가 새 버전을 즉시 배포합니다."
+          fi
